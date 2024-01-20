@@ -208,3 +208,24 @@ img {
     padding-bottom: 3rem 0;
     margin-top: 4rem;
 }
+
+/* Sobre Nosotros */
+@media (min-width: 768px) {
+    .sobre-nosotros {
+        display: flex;
+        justify-content: space-between;
+        /* gap: 2rem; */ /* gap no es soportado por todos los navegadores aun. */
+    }
+    .sobre-nosotros__imagen,
+    .sobre-nosotros__texto {
+        flex-basis: calc(50% - 1rem);
+        /* flex-basis: 50%; */ /* Usado en conjunto con gap, sin embargo gap no es soportado por todos los navegadores aun. */
+    }
+
+    /* El siguiente código produce el mismo resultado que el de arriba, con grid es mas corto, inclusive. Sin embargo, estoy practicando flex box y sus diferentes propiedades en esta sección del curso. */
+    /* .sobre-nosotros {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 2rem;
+    } */
+}
