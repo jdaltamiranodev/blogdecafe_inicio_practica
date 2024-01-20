@@ -2,17 +2,9 @@
 
 ## Puede ver el sitio Blog de Cafe desplegado en Netlify [Blog de Cafe](https://blog-cafe-jose-david-altamirano.netlify.app/)
 
-## Versión Escritorio
+### Versión Escritorio
 
 ![Captura de pantalla versión escritorio](img/MacBook_Pro_inicio.jpeg) 
-
-## Versión Tablet
-
-![Captura de pantalla versión tablet](img/iPad-inicio.jpeg) 
-
-## Versión Móvil
-
-![Captura de pantalla versión tablet](img/iPhone-13-Pro_Max_inicio.jpeg) 
 
 ## Tabla de contenido
 
@@ -22,6 +14,8 @@
 4. Instalación y prueba
 5. Marcos de competencia
 6. Flujo de Trabajo
+7. Versión Tablet
+8. Versión Móvil
 
 ## Información general
 
@@ -99,3 +93,11 @@ $ git clone https://github.com/jdaltamiranodev/blogdecafe_inicio_practica.git
 ## Flujo de Trabajo
 
 ![Imagen git clone](img/captura_de_pantalla_git_kraken.png) 
+
+## Versión Tablet
+
+![Captura de pantalla versión tablet](img/iPad-inicio.jpeg) 
+
+## Versión Móvil
+
+![Captura de pantalla versión tablet](img/iPhone-13-Pro_Max_inicio.jpeg) 
